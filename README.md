@@ -61,7 +61,7 @@ you should set direction properties in your xml file,If you don't want to do tha
 ##License
 MIT License
 
-Copyright (c) 2016 胡琪
+Copyright (c) 2016 hq_sunshine
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
