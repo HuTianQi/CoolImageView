@@ -1,5 +1,5 @@
 # CoolImageView
-A imageView  is similar to QQ that ImageView background picture can move up and down，But the function is more powerful than QQ  
+A imageView  is similar to QQ that imageView background picture can move up and down，But the function is more powerful than QQ,it also supports left and right movement    
 
 ##动态效果：
 
