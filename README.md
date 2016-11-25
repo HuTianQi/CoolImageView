@@ -1,6 +1,9 @@
 # CoolImageView
 A imageView  is similar to QQ that imageView background picture can move up and down，But the function is more powerful than QQ,it also supports left and right movement  
 
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HuTianQi/CoolImageView#license)
+[![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
+
 ##Dynamic effect preview （Because the gif resources are large, please wait for the resources to complete the load）
 ![image](https://github.com/HuTianQi/CoolImageView/blob/master/CoolImageView.gif)  
 
