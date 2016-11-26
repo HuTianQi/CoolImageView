@@ -5,7 +5,8 @@ A imageView  is similar to QQ that imageView background picture can move up and 
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
 
 ##Dynamic effect preview （Because the gif resources are large, please wait for the resources to complete the load）
-![image](https://github.com/HuTianQi/CoolImageView/blob/master/beauty.gif)  
+![image](https://github.com/HuTianQi/CoolImageView/blob/master/beauty.gif)
+![image](https://github.com/HuTianQi/CoolImageView/blob/master/beauty_.gif)  
 
 
 ##How to use
