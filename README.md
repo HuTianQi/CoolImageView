@@ -5,10 +5,10 @@ A imageView  is similar to QQ that imageView background picture can move up and 
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
 
 ##Dynamic effect preview （Because the gif resources are large, please wait for the resources to complete the load）
-this is  background picture left and right movement
-![image](https://github.com/HuTianQi/CoolImageView/blob/master/beauty.gif)  
- this is background picture move up and down
-![image](https://github.com/HuTianQi/CoolImageView/blob/master/beauty_.gif)  
+this is  background picture left and right movement  
+![image](https://github.com/HuTianQi/CoolImageView/blob/master/beauty.gif)    
+ this is background picture move up and down  
+![image](https://github.com/HuTianQi/CoolImageView/blob/master/beauty_.gif)   
 
 
 ##How to use
